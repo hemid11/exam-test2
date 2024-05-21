@@ -1,0 +1,16 @@
+footer{
+    color:  #B8B8B8;
+    background-color: #222222;
+    cursor: pointer;
+}.container .foot {
+    text-align: center;
+    width: 200px;
+}
+p{
+    text-align: center;
+}
+
+.web{
+    font-size: 30px;
+    text-align: center;
+}
